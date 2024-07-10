@@ -1,8 +1,8 @@
 {
   "name": "@lattln/editorjs-formdep-svgicons",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "SVG Icons for EditorJS custom form block tools",
-  "main": "src/svgicons.js",
+  "main": "src/svgIcons.js",
   "author": "Lin Latt",
   "license": "MIT",
   "keywords": [
