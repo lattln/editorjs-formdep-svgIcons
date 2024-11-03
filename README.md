@@ -1,6 +1,9 @@
 # @lattln/editorjs-formdep-svgIcons
   npm package dependency for @latt/editorjs-formTools/"customTools"
 
+
+  https://www.npmjs.com/package/@lattln/editorjs-formdep-svgicons?activeTab=readme
+
 ## All available icons 
 * trashCan_Icon 
 * radio_Icon 
