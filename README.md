@@ -2,7 +2,7 @@
   npm package dependency for @latt/editorjs-formTools/"customTools"
 
 
-  https://www.npmjs.com/package/@lattln/editorjs-formdep-svgicons?activeTab=readme
+  https://www.npmjs.com/package/@lattln/editorjs-formdep-svgicons
 
 ## All available icons 
 * trashCan_Icon 
